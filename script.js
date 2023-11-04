@@ -1,4 +1,4 @@
-    // Lista de tus certificados en PDF
+
     var certificados = [
         "Miguel AlejandroCervantes Zea-P60 - FUNDAMENTO-certificate.pdf",
         "Python_Essentials_1_Badge20230730-28-kwpti5.pdf",
@@ -7,7 +7,7 @@
         "Miguel AlejandroCervantes Zea-CCNA RS ESSENTIA-certificate.pdf"
     ];
 
-    // Función para mostrar los certificados
+
     function mostrarCertificados() {
         var divCurriculum = document.getElementById('Curriculum de Miguel Alejandro Cervantes Zea');
 
@@ -26,5 +26,5 @@
         }
     }
 
-    // Llamada a la función para mostrar los certificados
+
     mostrarCertificados();
