@@ -9,7 +9,7 @@
 
     // Función para mostrar los certificados
     function mostrarCertificados() {
-        var divCurriculum = document.getElementById('curriculum');
+        var divCurriculum = document.getElementById('Curriculum de Miguel Alejandro Cervantes Zea');
 
         for (var i = 0; i < certificados.length; i++) {
             var titulo = document.createElement('h2');
