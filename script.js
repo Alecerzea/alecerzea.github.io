@@ -1,7 +1,7 @@
 
     var certificados = [
-        "0931076269_NOTAS.PDF",
-        "0931076269_ACTA.PDF",
+        "0931076269_NOTAS.pdf",
+        "0931076269_ACTA.pdf",
         "Miguel AlejandroCervantes Zea-P60 - FUNDAMENTO-certificate.pdf",
         "Python_Essentials_1_Badge20230730-28-kwpti5.pdf",
         "Python_Essentials_2_Badge20230731-28-ghjx4s.pdf",
