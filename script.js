@@ -1,5 +1,4 @@
    var certificados = [
-    { nombre: "Cerificado de B2 de MCervantes.pdf", descripcion: "certificado de B2 obtenido en el año 2020" },
     { nombre: "Miguel AlejandroCervantes Zea-P60 - FUNDAMENTO-certificate.pdf", descripcion: "certificado de Linux essentials obtenido en el año 2022" },
     { nombre: "Miguel AlejandroCervantes Zea-CCNA RS ESSENTIA-certificate.pdf", descripcion: "certificado de Switching, Routing and Wireless Essentials obtenido en el año 2023" },
     { nombre: "Python_Essentials_1_Badge20230730-28-kwpti5.pdf", descripcion: "certificado de Python Essentials 1 obtenido en el año 2023" },
