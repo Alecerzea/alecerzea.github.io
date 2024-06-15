@@ -4,7 +4,7 @@
     { nombre: "Python_Essentials_1_Badge20230730-28-kwpti5.pdf", descripcion: "certificado de Python Essentials 1 obtenido en el año 2023" },
     { nombre: "Python_Essentials_2_Badge20230731-28-ghjx4s.pdf", descripcion: "certificado de Python Essentials 2 obtenido en el año 2023" },
     { nombre: "JavaScript_Essentials_1_Badge20230807-28-41bn52.pdf", descripcion: "certificado de JavaScript Essentials obtenido en el año 2023" },
-    { nombre: "JavaScript_Essentials_1_Badge20230807-28-41bn52.pdf", descripcion: "certificado de JavaScript Essentials obtenido en el año 2023" }
+    { nombre: "JavaScript_Essentials_2_Badge20240615-7-23egq", descripcion: "certificado de JavaScript Essentials 2 obtenido en el año 2024" }
 ];
 
 
